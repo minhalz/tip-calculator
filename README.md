@@ -10,13 +10,6 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -34,12 +27,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://tip-calculator-lovat.vercel.app/](https://tip-calculator-lovat.vercel.app/)
 
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
-- [Redux](https://redux.js.org/) - State Management
-- [Tailwind CSS](https://tailwindcss.com/) - For styles
+- [Redux](https://redux.js.org/) - State management
+- [Tailwind CSS](https://tailwindcss.com/) - CSS framework
