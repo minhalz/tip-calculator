@@ -29,6 +29,8 @@ Users should be able to:
 
 - Solution URL: [https://tip-calculator-lovat.vercel.app/](https://tip-calculator-lovat.vercel.app/)
 
+## My process
+
 ### Built with
 
 - [React](https://reactjs.org/) - JS library

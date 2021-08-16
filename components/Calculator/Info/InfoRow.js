@@ -1,5 +1,11 @@
+import { useEffect, useState } from "react";
+
 function InfoRow({ label, amount }) {
-  const length = amount.length;
+  const [length, setLength] = useState(0);
+
+  useEffect(() => {
+    setLength(amount.length);
+  }, [amount]);
 
   return (
     <li className="flex justify-between items-center mb-8">
